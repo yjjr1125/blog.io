@@ -2,7 +2,7 @@
 layout: page
 title: "TAGS"
 description: "标签分类"  
-header-img: "img/orange new.jpg"  
+header-img: "img/orange new.png"  
 ---
 
 ##本页使用方法
