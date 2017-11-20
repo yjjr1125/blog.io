@@ -1,11 +1,11 @@
----
+﻿---
 layout: page
-title: "milestone"
-description: "代表作"
-header-img: "img/zhihu.jpg"
+title: "dairy"
+description: "奇奇怪怪的东西"
+header-img: "img/twitter.jpg"
 ---
 
-这个页面放置你的代表作。
+
 
 
 
