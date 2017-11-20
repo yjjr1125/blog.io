@@ -1,6 +1,6 @@
 ﻿# Site settings
 title: Welcome to yjjr's blog!  # 你的博客名字，可以定义修订
-header-img: "img/green.jpg"
+header-img: "img/p2460686924.jpg"
 tagline: "cn"  
 description: "yjjr's blog"  # 一句话描述你的博客
 baseurl: ""
@@ -16,12 +16,12 @@ owner:
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
-douban_username:  # 你的豆瓣id
+douban_username: 141015242 # 你的豆瓣id
 twitter_username: 
 github_username: yjjr1125 
 facebook_username: 
-weibo_username: 
-zhihu_username:
+weibo_username: 18056072060
+zhihu_username: 18056072060
 
 # Build settings  
 # use Github Flavored Markdown !important  
