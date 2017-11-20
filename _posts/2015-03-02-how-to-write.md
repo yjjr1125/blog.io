@@ -1,9 +1,9 @@
----
+﻿---
 layout: post
 title: TEST
 date: 2017-11-20
 categories: blog
-tags: [标签一,标签二]
+tags: [test1,test2]
 description: 文章金句。
 ---
 
