@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "dairy"
 description: "奇奇怪怪的东西"
