@@ -1,5 +1,5 @@
-﻿# Site settings
-title: Welcome to yjjr's blog!  # 你的博客名字，可以定义修订
+# Site settings
+title: Welcome to yjjr's blog! # 你的博客名字，可以定义修订
 header-img: "img/semantic.jpg"
 tagline: "cn"  
 description: "yjjr's blog"  # 一句话描述你的博客
@@ -10,7 +10,7 @@ url: "http://www.yjjr.me"  # 此处填写你的博客地址
 owner: 
   name: "yjjr" # 填写作者信息：名字
   email: 1844387848@qq.com # 填写作者信息：邮箱
-  bio: "蒟蒻OIER yjjr的成长历程" # 填写作者信息：博客描述
+  bio: "蒟蒻OIer yjjr的成长历程" # 填写作者信息：博客描述
 
 # Data
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
@@ -18,10 +18,10 @@ favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
 douban_username: 141015242 # 你的豆瓣id
 twitter_username: 
-github_username: yjjr1125 
+github_username: yjjr1125
 facebook_username: 
-weibo_username: 18056072060
-zhihu_username: 18056072060
+weibo_username: 在地球旅行的独角兽f
+zhihu_username: 杨季敬汝
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: "post"
       author: "yjjr" # 你的名字
-      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
