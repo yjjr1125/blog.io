@@ -5,7 +5,7 @@ description: "奇奇怪怪的东西"
 header-img: "img/twitter.jpg"
 ---
 
-<embed src="//music.163.com/style/swf/widget.swf?sid=516819087&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
+<embed src="//music.163.com/style/swf/widget.swf?sid=516819087&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
 
 # 2017年11月25日
 
