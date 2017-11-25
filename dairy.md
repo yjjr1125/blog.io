@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "dairy"
-description: "奇奇怪怪的东西"
+description: "愿所有的青春岁月都被温柔以待。"
 header-img: "img/twitter.jpg"
 ---
 
