@@ -40,7 +40,7 @@ mfs也退役了，yjc去忙中考了，身边搞OI的小伙伴一下子少了好
 
 ——八月长安《你好旧时光》
 
-
+![](http://img.blog.csdn.net/20171125170329221?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXdlcnR5MTEyNQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 
 

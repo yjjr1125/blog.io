@@ -41,6 +41,11 @@ header-img: "img/orange.jpg"
 
 - [menci](https://oi.men.ci/)
 
+# picture
+
+![机房外景](http://img.blog.csdn.net/20171118231537283)
+
+![机房内景](http://img.blog.csdn.net/20171118231521214)
 
 # 博客版本
 
@@ -50,4 +55,4 @@ header-img: "img/orange.jpg"
 
 2017-11-23   V1.2   加入了炫酷的动态背景
 
-2017-11-25   V1.3   加入背景音乐插件，启用dairy页面
+2017-11-25   V1.3   加入背景音乐插件，启用dairy页面，加入图片功能
