@@ -5,7 +5,7 @@ description: "如果我们可以给自己破釜沉舟的勇气，东京其实不
 header-img: "img/orange.jpg"
 ---
 
-<embed src="//music.163.com/style/swf/widget.swf?sid=437802818&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
+<embed src="//music.163.com/style/swf/widget.swf?sid=437802818&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
 
 > 春天 初恋 樱花的颜色
 >

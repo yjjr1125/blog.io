@@ -5,7 +5,7 @@ description: "一如既往，万事胜意"
 header-img: "img/twitter.jpg"
 ---
 
-<embed src="//music.163.com/style/swf/widget.swf?sid=519943060&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
+<embed src="//music.163.com/style/swf/widget.swf?sid=519943060&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
 
 # 2017年12月2日
 
@@ -30,7 +30,7 @@ header-img: "img/twitter.jpg"
 
 最近好多恋爱番和网剧都骗老夫谈恋爱啊，又要到白色相簿的季节了
 
-![](https://img3.doubanio.com/view/photo/l/public/p2398430023.jpg)
+![](http://img.blog.csdn.net/20171203180441383?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXdlcnR5MTEyNQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 # 2017年11月25日
 
