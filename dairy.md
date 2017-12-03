@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "dairy"
-description: "愿所有的青春岁月都被温柔以待。"
+description: "一如既往，万事胜意"
 header-img: "img/twitter.jpg"
 ---
 
-<embed src="http://www.xiami.com/widget/0_1774086926/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent">
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=519943060&auto=1&height=66"></iframe>
 
 # 2017年12月2日
 

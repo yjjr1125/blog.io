@@ -1,18 +1,11 @@
 ---
 layout: page
 title: "About"
-description: "一如既往，万事胜意。" 
+description: "如果我们可以给自己破釜沉舟的勇气，东京其实不远" 
 header-img: "img/orange.jpg"
 ---
 
----
-layout: page
-title: "About"
-description: "一如既往，万事胜意。" 
-header-img: "img/orange.jpg"
----
-
-<embed src="//music.163.com/style/swf/widget.swf?sid=519943060&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=437802818&auto=1&height=66"></iframe>
 
 > 春天 初恋 樱花的颜色
 >
