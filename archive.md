@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Archive"
-description: "文章归档"
+description: "时光是一支开弓后的箭，只向前，不后退"
 header-img: "img/facebook.jpg"
 ---
 

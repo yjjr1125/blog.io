@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "TAGS"
-description: "标签分类"  
+description: "你越功利，世界就对你越神秘"  
 header-img: "img/orange new.png"  
 ---
 

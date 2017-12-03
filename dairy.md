@@ -5,7 +5,7 @@ description: "一如既往，万事胜意"
 header-img: "img/twitter.jpg"
 ---
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=519943060&auto=1&height=66"></iframe>
+<embed src="//music.163.com/style/swf/widget.swf?sid=519943060&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
 
 # 2017年12月2日
 
