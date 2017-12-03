@@ -5,7 +5,32 @@ description: "愿所有的青春岁月都被温柔以待。"
 header-img: "img/twitter.jpg"
 ---
 
-<embed src="//music.163.com/style/swf/widget.swf?sid=516819087&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
+<embed src="http://www.xiami.com/widget/0_1774086926/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent">
+
+# 2017年12月2日
+
+颓完了期中考试，考着玩儿......
+
+我们高二老师出高一的试卷，理科应该全市最难，文科简单（我这种停课两个月的人都能写对）
+
+学校鼓励大家去学文
+
+我不偏理，也不偏文，我偏傻qwq
+
+开始学习省选难度的算法，自己太菜了啊，noip前最后的刷水题机会也没有了
+
+和学校请了两个月的假，又搬去机房了
+
+之后的训练计划：
+
+- 每天一场CF div 1 / 模拟赛
+- 学习省选算法，写学习笔记
+- 日常刷BZOJ，争取每周20题++
+- 每晚自学文化课和外语（英语和瑞德）
+
+最近好多恋爱番和网剧都骗老夫谈恋爱啊，又要到白色相簿的季节了
+
+![](https://img3.doubanio.com/view/photo/l/public/p2398430023.jpg)
 
 # 2017年11月25日
 
@@ -41,7 +66,3 @@ mfs也退役了，yjc去忙中考了，身边搞OI的小伙伴一下子少了好
 ——八月长安《你好旧时光》
 
 ![](http://img.blog.csdn.net/20171125170329221?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXdlcnR5MTEyNQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-
-
-
-

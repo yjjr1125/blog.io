@@ -5,7 +5,20 @@ description: "一如既往，万事胜意。"
 header-img: "img/orange.jpg"
 ---
 
-<embed src="//music.163.com/style/swf/widget.swf?sid=513360721&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
+---
+layout: page
+title: "About"
+description: "一如既往，万事胜意。" 
+header-img: "img/orange.jpg"
+---
+
+<embed src="//music.163.com/style/swf/widget.swf?sid=519943060&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
+
+> 春天 初恋 樱花的颜色
+>
+> 夏天 烟花 恋爱的颜色
+> 
+> 秘密 孤独 黄昏的颜色
 
 # 正文
 
