@@ -2,7 +2,7 @@
 layout: page
 title: "Player"
 description: "无论何时我们的恋情都是10厘米"
-header-img: "orange new.png"
+header-img: "img/orange new.png"
 ---
 
 > 春天 初恋 樱花的颜色
