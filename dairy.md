@@ -5,7 +5,50 @@ description: "一如既往，万事胜意"
 header-img: "img/twitter.jpg"
 ---
 
-<embed src="//music.163.com/style/swf/widget.swf?sid=519943060&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
+<embed src="//music.163.com/style/swf/widget.swf?sid=522528589&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
+
+# 2017年12月9日
+
+硬肝了两天网络流，自己真的好zz，啥也不会
+
+好不容易把dinic的板子搞好，然后晕倒在费用流面前，好颓啊
+
+WC2018应该是无缘了吧，哪让自己联赛考那么废啊，自己的锅自己背
+
+入了索尼大法的新hear系列耳机，剩下半个月准备吃土吧qwq
+
+期中考试文化课还凑活，但是在全校重点班就是倒数了
+
+如果我待在平行班，两个月不上文化课，还能考这么“好”，那其他同学肯定会怀疑人生吧，笑）
+
+|  rank  |  语文  |  数学  |  英语  |  物理  |  化学  |  生物   |  地理  |  历史  |
+| --------- |
+| 800|106|121|116|57|51|62|80|77|
+
+后面两周的算法学习定个计划
+
+- 图论：网络流：最大流，最小割，费用流，有上下界网络流
+
+- 图论：2-sat
+
+- 图论：二分图匹配，KM算法
+
+- 图论：欧拉图
+
+- 数学：莫比乌斯反演，FFT，BSGS
+
+- 计算几何&&DP：凸包，斜率优化，决策单调性
+
+- 字符串：KMP，后缀数组，AC自动机，Manacher
+
+- 数据结构：LCT，树剖，点分治
+
+- 数据结构：可持久化treap，splay，主席树
+
+安利一部恋爱番+音乐番（狗粮番）：无论何时我们的恋情都是10厘米。
+
+![这里写图片描述](http://img.blog.csdn.net/20171209232807916?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXdlcnR5MTEyNQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
 
 # 2017年12月2日
 
