@@ -1,3 +1,11 @@
+---
+layout: post
+title: 非旋转treap模板（fhq treap）
+date: 2017-12-15
+categories: blog
+tags: [treap,平衡树,数据结构,模板]
+description: OI
+---
 # 题目
 
 [题目传送门](http://www.lydsy.com/JudgeOnline/problem.php?id=3224)
