@@ -59,5 +59,6 @@ google_analytics:  # 填写你  google_analytics id
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
+baidu-analysis： yjjr1125
 
 # Links to include in footer navigation
