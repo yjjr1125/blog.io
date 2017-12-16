@@ -5,7 +5,7 @@ description: "如果我们可以给自己破釜沉舟的勇气，东京其实不
 header-img: "img/orange.jpg"
 ---
 
-<embed src="//music.163.com/style/swf/widget.swf?sid=437802818&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
+<embed src="//music.163.com/style/swf/widget.swf?sid=29364501&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
 
 > 春天 初恋 樱花的颜色
 >
@@ -14,6 +14,8 @@ header-img: "img/orange.jpg"
 > 秘密 孤独 黄昏的颜色
 >
 > 留学 未来蓝图 心的颜色
+>
+> 初雪 梦想 眼泪的颜色
 
 # 正文
 
@@ -34,6 +36,8 @@ header-img: "img/orange.jpg"
 # 外链
                       
 - [我的CSDN博客](http://blog.csdn.net/qwerty1125)
+
+- [我的洛谷博客](https://www.luogu.org/blog/yjjr/#)
 
 - [我的原博客](http://www.yjjr.org)
 

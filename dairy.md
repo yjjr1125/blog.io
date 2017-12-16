@@ -5,7 +5,56 @@ description: "一如既往，万事胜意"
 header-img: "img/twitter.jpg"
 ---
 
-<embed src="//music.163.com/style/swf/widget.swf?sid=522528589&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
+<embed src="//music.163.com/style/swf/widget.swf?sid=522529624&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
+
+# 2017年12月15日
+
+一周又结束了，总结下学习的东西：
+
+最大流最小割dinic算法，zkw费用流，2-sat，莫比乌斯反演，FFT，BSGS，可持久化treap（非旋），splay
+
+下周要把数据结构、图论和计算几何学完，天天都好充实啊
+
+高一年级部最近闹流感，真可怕[惊恐无比的眼神]
+
+开学的时候参加了一个划水的学生会文艺部//貌似莫名其妙地变成了文艺部部长
+
+然而马上的文化艺术节并没有我什么事情[摊手]
+
+热闹是他们的，我什么也没有
+
+机房已经快变成网吧了，大家都在颓废打游戏，教练好像也管不着
+
+mfs貌似因为noipCE两题，心态还没调整好，真的很担心啊
+
+和fcy一年多的QQ巨轮说沉就沉，这个锅我得背[可怜]
+
+感慨去年冬天简直就是白学现场啊
+
+![这里写图片描述](http://img.blog.csdn.net/20171215173819488?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXdlcnR5MTEyNQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
+
+# 2017年12月12日
+
+网络流和2-sat终于颓(xue)完(fei)了，教练已经没能力和我交流省选难度的算法了，逃）
+
+日常生活：白天混机房，晚上自学文化课（感觉文化课和竞赛一样难学）
+
+竞赛课的时候就是毒奶和开车，常老师太强辣%%%（貌似OI界能称的上老师的也就dls,cls），lxd是比尔盖茨高度啊，全机房就我最弱
+
+发现ETHz的数学考试内容好简单啊，中国学生的基础真的是强啊！
+
+再也不去刷53&&王后雄&&必刷题了，再也不去搞那些高难度的高考题了
+
+不准备高考怎么感觉自己的青春不完整了啊
+
+这几天的合肥真的冷啊，败狗在寒风中瑟瑟发抖，冰冷的狗粮胡乱地往嘴里塞
+
+学长：“你们要趁年轻多和女生说说话。”可我在校园里看到fcy也不敢叫她，怎么感觉心的距离越来越远了啊qwq
+
+![这里写图片描述](http://img.blog.csdn.net/20171212221220027?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXdlcnR5MTEyNQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
+
 
 # 2017年12月9日
 
@@ -23,7 +72,7 @@ WC2018应该是无缘了吧，哪让自己联赛考那么废啊，自己的锅�
 
 |  rank  |  语文  |  数学  |  英语  |  物理  |  化学  |  生物   |  地理  |  历史  |
 | --------- |
-| 800|106|121|116|57|51|62|80|77|
+| 800/1900|106/150|121/150|116/150|57/100|51/100|62/100|80/100|77/100|
 
 后面两周的算法学习定个计划
 
