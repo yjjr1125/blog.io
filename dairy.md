@@ -24,13 +24,15 @@ header-img: "img/twitter.jpg"
 但是最终依然卡掉了不少AC代码，谁让你们吐槽那题luogu数据比bzoj水太多了（划掉）
 
 > 今年圣诞气氛好淡啊，明年要到Switzerland过圣诞啦！
-
+> 
 > 据说西方国家圣诞节都砍真的小松树做圣诞树的qwq//震惊
-
+> 
 > 放几张校友xzh在America过圣诞的图，真的是“the wonderful time of the year"!!!!!
 > 
 > ![这里写图片描述](http://img.blog.csdn.net/20171226111231586?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXdlcnR5MTEyNQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 > ![这里写图片描述](http://img.blog.csdn.net/20171226111246849?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXdlcnR5MTEyNQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
+
 # 2017年12月24日
 
 变成luogu管理员啦，霸气的紫名（虽然还是实习的）
