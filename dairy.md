@@ -5,7 +5,86 @@ description: "一如既往，万事胜意"
 header-img: "img/twitter.jpg"
 ---
 
-<embed src="//music.163.com/style/swf/widget.swf?sid=522529624&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
+<embed src="//music.163.com/style/swf/widget.swf?sid=482999696&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
+
+下面是本蒟蒻的意识流日记：
+
+# 2017年12月26日
+
+早上来基房就看到了mfs送的礼物
+
+唔//模仿icy语气
+
+圣诞老人来机房了，开心
+
+![这里写图片描述](http://img.blog.csdn.net/20171226110556473?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXdlcnR5MTEyNQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
+自己在luogu上出的第一组加强数据就出锅了，真的是zz
+
+但是最终依然卡掉了不少AC代码，谁让你们吐槽那题luogu数据比bzoj水太多了（划掉）
+
+> 今年圣诞气氛好淡啊，明年要到Switzerland过圣诞啦！
+
+> 据说西方国家圣诞节都砍真的小松树做圣诞树的qwq//震惊
+
+> 放几张校友xzh在America过圣诞的图，真的是“the wonderful time of the year"!!!!!
+> 
+> ![这里写图片描述](http://img.blog.csdn.net/20171226111231586?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXdlcnR5MTEyNQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+> ![这里写图片描述](http://img.blog.csdn.net/20171226111246849?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXdlcnR5MTEyNQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+# 2017年12月24日
+
+变成luogu管理员啦，霸气的紫名（虽然还是实习的）
+
+![这里写图片描述](http://img.blog.csdn.net/20171224155106618?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXdlcnR5MTEyNQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
+三年前看着luogu花哨的UI界面，没想到现在竟然会认识这个网站的主人，自己会成为管理员
+
+感谢OI让我看到了一个不一样的世界，感谢icy,zyl和各位管理员前辈给我这个机会锻炼自己，为大家服务啊
+
+自己真的是最弱的管理员了（不是在装弱，我是真的弱）
+
+icy竟然拿全站第三难写的spj考验我（说是考我勇气2333）
+
+我当然没写出来啊（正解是平衡树，当然也可以用链表+线段树写）
+
+make a list（待解决）
+
+-  计算几何
+-  字符串
+-  DP
+- 可持久化的数据结构（高级数据结构）
+
+之后每天要做省选摸你赛了啊，锻炼拿部分分的能力，希望省选不要太菜啊
+
+祝16岁的fcy破壳快乐（可能她也看不见）
+
+好怀念初中生活啊
+
+![这里写图片描述](http://img.blog.csdn.net/20171224155706146?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXdlcnR5MTEyNQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
+#  2017年12月20日
+
+不正常的一周
+
+莫名其妙心血来潮去申请luogu题目管理员，然后发现自己真的太弱（心态有点崩）.
+
+现在流过的泪都是当时脑子里进的水。
+
+菜死了怎么办啊[可怜]
+
+但还是硬学spj，努力试试能不能申请上啊qwq（感觉申请上Luogu管理员可以在小学生圈子装13）
+
+这几天都有点颓，不能让自己长期处于舒适区啊.
+
+splay，fhq treap，LCT，主席树，树剖这些数据结构代码量好大.
+
+常老师说：“作为省选选手，就要随时做好代码量3k的准备。”
+
+幸亏ah这几年不是自己命题，脱离了数据结构大赛.
+
+翻到高三退役学长zwh说，一定要重视数据结构，网络流建模。最重要还是训练拿部分分能力.
+
+![这里写图片描述](http://img.blog.csdn.net/20171220175156066?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXdlcnR5MTEyNQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 # 2017年12月15日
 
