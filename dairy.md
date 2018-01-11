@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "dairy"
+title: "Dairy"
 description: "一如既往，万事胜意"
 header-img: "img/twitter.jpg"
 ---
