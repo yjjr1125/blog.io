@@ -5,16 +5,17 @@ description: "时光是一支开弓后的箭，只向前，不后退"
 header-img: "img/facebook.jpg"
 ---
 
-<ul class="listing">
+# Blogs
+<hr>
+
 {% for post in site.posts %}
-  {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
-  {% if year != y %}
-    {% assign year = y %}
-    <li class="listing-seperator">{{ y }}</li>
-  {% endif %}
-  <li class="listing-item">
-    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-    <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-  </li>
+<div class="post-preview">
+
+  <font color="#4078c0">{{ post.date | date: "%B %-d, %Y" }} -> &nbsp;&nbsp;
+  <a color="#4078c0" target="_blank" href="{{ post.url | prepend: site.baseurl }}">  {{ post.title }}
+  </a>
+  </font>
+
+</div>
+<hr>
 {% endfor %}
-</ul>
