@@ -48,7 +48,7 @@ defaults:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-livere_uid: yjjr
+livere_comment: true
 
 # Comments 
 comments :
