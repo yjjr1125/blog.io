@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "TAGS"
+title: "Tags"
 description: "你越功利，世界就对你越神秘"  
 header-img: "img/orange new.png"  
 ---
@@ -27,8 +27,12 @@ header-img: "img/orange new.png"
   <li class="listing-item">
   <font color="#4078c0">{{ post.date | date: "%B %-d, %Y" }} -> &nbsp;&nbsp;
   <a color="#4078c0" target="_blank" href="{{ post.url | prepend: site.baseurl }}">  {{ post.title }}
-  </a>
-  </font>
+  </a></font>  	   
+  {% if post.subtitle %}
+				        <h2 class="post-subtitle">
+				            {{ post.subtitle }}
+				        </h2>
+{% endif %}
   </li>
 {% endfor %}
 {% endfor %}
