@@ -65,3 +65,23 @@ google_verify:
 bing_verify:
 baidu-analysis:  yjjr1125
 # Links to include in footer navigation
+
+#Friends
+friends: [
+    {
+        title: "zmd",
+        href: "http://blog.csdn.net/dadatu_zhao"
+    },{
+        title: "JRX's blog",
+        href: "http://blog.csdn.net/qq_31640513/"
+    },{
+        title: "creatorlxd",
+        href: "https://creatorlxd.github.io"
+    },{
+        title: "Acheing",
+        href: "https://www.cnblogs.com/acheing"
+    },{
+        title: "hzwer",
+        href: "http://hzwer.com/"
+    }
+]
