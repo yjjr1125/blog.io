@@ -25,8 +25,10 @@ header-img: "img/orange new.png"
   <li class="listing-seperator" id="{{ tag[0] }}">{{ tag[0] }}</li>
 {% for post in tag[1] %}
   <li class="listing-item">
-  <time datetime="{{ post.date | date:"%B %-d, %Y" }}">{{ post.date | date:"%B %-d, %Y" }}</time>
-  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+  <font color="#4078c0">{{ post.date | date: "%B %-d, %Y" }} -> &nbsp;&nbsp;
+  <a color="#4078c0" target="_blank" href="{{ post.url | prepend: site.baseurl }}">  {{ post.title }}
+  </a>
+  </font>
   </li>
 {% endfor %}
 {% endfor %}
