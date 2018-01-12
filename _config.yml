@@ -46,6 +46,10 @@ defaults:
       author: "yjjr" # 你的名字
       header-img: "img/semantic.jpg" # We don't want posts without a header image, that whould mean white on white
 
+# Support for LiveRe comments system.
+# You can get your uid from https://livere.com/insight/myCode (General web site)
+livere_uid: yjjr
+
 # Comments 
 comments :
   provider : disqus # 使用 disqus 评论模块，读者翻墙才能看见
